@@ -1,0 +1,12 @@
+PHP	-> Symfony
+	-> Laraval
+	-> CakePHP
+
+JAVA	-> SpringBoot
+	-> Jhypster
+		-> SpringBoot
+		-> Angular
+
+JS	-> NodeJS
+
+Python	-> Django
