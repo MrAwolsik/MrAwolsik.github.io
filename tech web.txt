@@ -10,3 +10,7 @@ JAVA	-> SpringBoot
 JS	-> NodeJS
 
 Python	-> Django
+
+
+site icone flat
+https://www.flaticon.com/authors/nikita-golubev
