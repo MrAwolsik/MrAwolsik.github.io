@@ -16,7 +16,7 @@ function change_color() {
     if (tab_color.indexOf(element.style.backgroundColor) == -1)
     {
         tab_color.push(element.style.backgroundColor);
+        console.log("Tableau des couleurs -> ", tab_color);
     }
-    console.log("Tableau des couleurs -> ", tab_color);
 }
 
