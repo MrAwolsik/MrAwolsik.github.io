@@ -9,7 +9,7 @@ function change_color() {
     {
         value = "white";
     }
-    var element = document.getElementById("contact");
+    var element = document.getElementById("section_change_color");
     element.style.backgroundColor = value;
     console.log("couleur du background : ", element.style.backgroundColor);
 
@@ -19,4 +19,3 @@ function change_color() {
         console.log("Tableau des couleurs -> ", tab_color);
     }
 }
-
